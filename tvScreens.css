@@ -1,0 +1,44 @@
+table{
+    border-style: solid ;
+    border-collapse: collapse;
+    border-width: 1px;
+    text-align: center;
+}
+
+th{
+    border-style: solid;
+    border-width: thin;
+    width: 100px;
+    height: 80px;
+}
+
+td{
+    border-style: solid;
+    border-width: thin;  
+}
+
+.optionsTh{
+    width: 120px;
+}
+
+.buyBut{
+    margin-left: 5px;
+}
+
+.checked{
+    color: orange;
+}
+
+.images{
+    width: 80px;
+    height: 80px;
+}
+
+#firstTr{
+    background-color: red;
+}
+
+#secondTr{
+    background-color: green;
+}
+
